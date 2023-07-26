@@ -1,4 +1,4 @@
-# Relatorios_de_Progresso
+# Relatórios de Progresso
 ## Relatório Semanal de Desenvolvimento de Software
 
  ### Introdução.
@@ -14,24 +14,24 @@ O principal objetivo deste relatório é fornecer uma visão geral do progresso 
 ### Dados Analisados
 Os dados fornecidos pela empresa incluem, mas não estão limitados a:
 
-1. Data: Informações sobre os dias da semana em que o projeto foi realizado, permitindo a análise de variações ao longo do tempo.
+1. **Data**: Informações sobre os dias da semana em que o projeto foi realizado, permitindo a análise de variações ao longo do tempo.
 
-2. Indicadores de Desenvolvimento: Métricas relevantes relacionadas ao progresso do projeto, como o número de tarefas concluídas, horas de trabalho, bugs identificados e corrigidos, entre outros.
+2. **Indicadores de Desenvolvimento**: Métricas relevantes relacionadas ao progresso do projeto, como o número de tarefas concluídas, horas de trabalho, bugs identificados e corrigidos, entre outros.
 
-3. Status do Projeto: Informações sobre o status geral do projeto em diferentes etapas da semana, ajudando a identificar gargalos ou possíveis atrasos.
+3. **Status do Projeto**: Informações sobre o status geral do projeto em diferentes etapas da semana, ajudando a identificar gargalos ou possíveis atrasos.
 
-4. Comentários e Observações: Possíveis observações e anotações feitas pela equipe durante o desenvolvimento, que podem oferecer insights adicionais para análise.
+4. **Comentários e Observações**: Possíveis observações e anotações feitas pela equipe durante o desenvolvimento, que podem oferecer insights adicionais para análise.
 
 ### Importância da Análise de Dados
 A análise de dados é crucial para o sucesso de qualquer projeto de desenvolvimento de software. Algumas das razões pelas quais essa prática é fundamental incluem:
 
-1. Acompanhamento do Progresso: Permite medir e avaliar o progresso do projeto ao longo do tempo, identificando se ele está em conformidade com o cronograma e as metas estabelecidas.
+1. **Acompanhamento do Progresso**: Permite medir e avaliar o progresso do projeto ao longo do tempo, identificando se ele está em conformidade com o cronograma e as metas estabelecidas.
 
-2. Identificação de Tendências: A análise dos dados pode revelar tendências ou padrões que podem passar despercebidos em uma visão superficial, auxiliando na detecção de oportunidades e ameaças.
+2. **Identificação de Tendências**: A análise dos dados pode revelar tendências ou padrões que podem passar despercebidos em uma visão superficial, auxiliando na detecção de oportunidades e ameaças.
 
-3. Tomada de Decisões Embasadas: Com base nos dados, a equipe de desenvolvimento e o proprietário do projeto podem tomar decisões informadas e estratégicas, priorizando tarefas ou realocando recursos conforme necessário.
+3. **Tomada de Decisões Embasadas**: Com base nos dados, a equipe de desenvolvimento e o proprietário do projeto podem tomar decisões informadas e estratégicas, priorizando tarefas ou realocando recursos conforme necessário.
 
-4. Melhoria Contínua: Ao identificar áreas que requerem melhorias, a equipe pode implementar mudanças para otimizar o processo de desenvolvimento.
+4. **Melhoria Contínua**: Ao identificar áreas que requerem melhorias, a equipe pode implementar mudanças para otimizar o processo de desenvolvimento.
 
 ### Conclusão
 A análise dos dados fornecidos pela tabela é de extrema importância para o projeto de desenvolvimento de software. Esse relatório oferece uma visão geral do progresso do projeto ao longo da semana, possibilitando que o proprietário da equipe tome decisões informadas e efetivas para garantir o sucesso do empreendimento.
@@ -39,3 +39,24 @@ A análise dos dados fornecidos pela tabela é de extrema importância para o pr
 Através da análise desses dados, a empresa pode aprender com o passado, melhorar o presente e planejar o futuro, alcançando assim um desenvolvimento mais eficiente e bem-sucedido de seus softwares.
 
 --- 
+
+## Modo de Uso:
+
+* Selecione a pasta desejada.
+* Execute o arquivo.
+--- 
+## Ferramentas Utilizadas:
+
+- Google Colaboratory - criação e execução de códigos.
+- GitHub Desktop - Para Clonar Reservatório
+- VsCodeStudio - Realizar commits e subir arquivos.
+- PhotoScape - Edição de imagens.
+
+--- 
+> ## Sobre mim
+> Aline Braga Bozollan - Estudante Analista de Dados.
+ 	[![texto alt]( https://cdn.qr-code-generator.com/account27731420/qrcodes/68708496.png?Expires=1690381986&Signature=JRPa-5HZEMmElq6uwpgepspmD029IVLTVdu7sY-~A-W9mnFVlNgp8ilcA0aKTUoMyABtyRNwsD8dTXCN79TH0NKdL6UZRN1vnXHHswVqNef5Ju49Mi1raq6BYCTVxQV9SbuQ7LeS3qpmc6UwSyf6LBKwgFTu58g0amep6CpnFKO-sslBegPtYiAJOQfAin~8bUDVwTInlJRbwoi2Fg-C4skIKUjjll3PdpPWPkP8E3ZkamEFMwqTFublEEW93~n73sjF5ojWawsH7pBJx96yAicJL4FvnStgDTkNCT-5dLtGib7my9c~ao-FNOlfoYZAg2Tvwc7pdVO5RKDUJYrdXg__&Key-Pair-Id=KKMPOJU8AYATR)](https://www.linkedin.com/in/alinebozollan/)
+   
+   
+
+
