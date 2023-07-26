@@ -48,8 +48,9 @@ Através da análise desses dados, a empresa pode aprender com o passado, melhor
 --- 
 ## <font color="darkblue">Ferramentas Utilizadas:</font>
 
-- Google Colaboratory - criação e execução de códigos.
-- GitHub Desktop - Para Clonar Reservatório
+- Google Colaboratory - Criação e execução de códigos.
+Link = [Colab](https://colab.research.google.com/drive/1yUoLV7x7BF5lmG6rWdQ7ynTrQuG_NWIW#scrollTo=StGmu2YT8zMI)
+- GitHub Desktop - Para Clonar Repositório
 - VsCodeStudio - Realizar commits e subir arquivos.
 - PhotoScape - Edição de imagens.
 
