@@ -1,6 +1,6 @@
-# <font color= #084B8A> Relatórios de Progresso
+# <font color="darkblue">Relatórios de Progresso</font> 
 
-## <font color= #045FB4> Relatório Semanal de Desenvolvimento de Software.
+## <font color="blue">Relatório Semanal de Desenvolvimento de Software.</font> 
 
  ### Introdução.
 
@@ -24,7 +24,7 @@ Os dados fornecidos pela empresa incluem, mas não estão limitados a:
 4. **Comentários e Observações**: Possíveis observações e anotações feitas pela equipe durante o desenvolvimento, que podem oferecer insights adicionais para análise.
 
 ### Importância da Análise de Dados
-A análise de dados é crucial para o sucesso de qualquer projeto de desenvolvimento de software. Algumas das razões pelas quais essa prática é fundamental incluem:
+A análise de dados é crucial para o sucesso de qualquer projeto de desenvolvimento de software. Algumas das razões pelas quais essa prática é fundamental incluem.
 
 1. **Acompanhamento do Progresso**: Permite medir e avaliar o progresso do projeto ao longo do tempo, identificando se ele está em conformidade com o cronograma e as metas estabelecidas.
 
@@ -41,14 +41,12 @@ Através da análise desses dados, a empresa pode aprender com o passado, melhor
 
 --- 
 
-## <font color= #045FB4> Modo de Uso: 
+## <font color="darkblue">Modo de Uso:</font> 
 
 * <font color= #000000> Selecione a pasta desejada.
 * <font color= #000000> Execute o arquivo.
 --- 
-## <font color= #045FB4> Ferramentas Utilizadas:
-
-<font color= #000000> 
+## <font color="darkblue">Ferramentas Utilizadas:</font>
 
 - Google Colaboratory - criação e execução de códigos.
 - GitHub Desktop - Para Clonar Reservatório
@@ -56,11 +54,9 @@ Através da análise desses dados, a empresa pode aprender com o passado, melhor
 - PhotoScape - Edição de imagens.
 
 --- 
-> ## <font color= #045FB4>Sobre mim
-> <font color= #000000> Aline Braga Bozollan - Estudante Analista de Dados.
-Escaneie o QrCode para contato:
- 	[![texto alt]( https://cdn.qr-code-generator.com/account27731420/qrcodes/68708496.png?Expires=1690381986&Signature=JRPa-5HZEMmElq6uwpgepspmD029IVLTVdu7sY-~A-W9mnFVlNgp8ilcA0aKTUoMyABtyRNwsD8dTXCN79TH0NKdL6UZRN1vnXHHswVqNef5Ju49Mi1raq6BYCTVxQV9SbuQ7LeS3qpmc6UwSyf6LBKwgFTu58g0amep6CpnFKO-sslBegPtYiAJOQfAin~8bUDVwTInlJRbwoi2Fg-C4skIKUjjll3PdpPWPkP8E3ZkamEFMwqTFublEEW93~n73sjF5ojWawsH7pBJx96yAicJL4FvnStgDTkNCT-5dLtGib7my9c~ao-FNOlfoYZAg2Tvwc7pdVO5RKDUJYrdXg__&Key-Pair-Id=KKMPOJU8AYATR)](https://www.linkedin.com/in/alinebozollan/).
-   
-   
+ ## <font color="darkblue">Sobre Mim</font>
+ <font color= #000000> Aline Braga Bozollan - Estudante Analista de Dados.
 
+* Escaneie o QrCode para contato:
 
+<a href="https://www.linkedin.com/in/alinebozollan/" rel=”perfil linkedin”>![qr_code](https://cdn.qr-code-generator.com/account27731420/qrcodes/68708496.png?Expires=1690381986&Signature=JRPa-5HZEMmElq6uwpgepspmD029IVLTVdu7sY-~A-W9mnFVlNgp8ilcA0aKTUoMyABtyRNwsD8dTXCN79TH0NKdL6UZRN1vnXHHswVqNef5Ju49Mi1raq6BYCTVxQV9SbuQ7LeS3qpmc6UwSyf6LBKwgFTu58g0amep6CpnFKO-sslBegPtYiAJOQfAin~8bUDVwTInlJRbwoi2Fg-C4skIKUjjll3PdpPWPkP8E3ZkamEFMwqTFublEEW93~n73sjF5ojWawsH7pBJx96yAicJL4FvnStgDTkNCT-5dLtGib7my9c~ao-FNOlfoYZAg2Tvwc7pdVO5RKDUJYrdXg__&Key-Pair-Id=KKMPOJU8AYATR)(https://www.linkedin.com/in/alinebozollan/)</a>
