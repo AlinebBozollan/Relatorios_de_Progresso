@@ -1,9 +1,10 @@
-# Relatórios de Progresso
-## Relatório Semanal de Desenvolvimento de Software
+# <font color= #084B8A> Relatórios de Progresso
+
+## <font color= #045FB4> Relatório Semanal de Desenvolvimento de Software.
 
  ### Introdução.
 
-Este README apresenta o relatório de análise dos dados de um projeto de desenvolvimento de software realizado ao longo de uma semana. O relatório tem como objetivo demonstrar a importância da análise de dados para o acompanhamento do progresso do projeto, identificação de áreas de melhoria e tomada de decisões informadas para garantir o sucesso do empreendimento.
+<font color= #000000> Este README apresenta o relatório de análise dos dados de um projeto de desenvolvimento de software realizado ao longo de uma semana. O relatório tem como objetivo demonstrar a importância da análise de dados para o acompanhamento do progresso do projeto, identificação de áreas de melhoria e tomada de decisões informadas para garantir o sucesso do empreendimento.
 
 ### Contexto
 A empresa de desenvolvimento de softwares possui uma tabela com dados relevantes para o projeto em questão. Esses dados serão analisados de forma a oferecer insights valiosos ao proprietário da equipe de desenvolvimento.
@@ -40,12 +41,14 @@ Através da análise desses dados, a empresa pode aprender com o passado, melhor
 
 --- 
 
-## Modo de Uso:
+## <font color= #045FB4> Modo de Uso:
 
-* Selecione a pasta desejada.
-* Execute o arquivo.
+* <font color= #000000> Selecione a pasta desejada.
+* <font color= #000000> Execute o arquivo.
 --- 
-## Ferramentas Utilizadas:
+## <font color= #045FB4> Ferramentas Utilizadas:
+
+<font color= #000000> 
 
 - Google Colaboratory - criação e execução de códigos.
 - GitHub Desktop - Para Clonar Reservatório
@@ -53,9 +56,9 @@ Através da análise desses dados, a empresa pode aprender com o passado, melhor
 - PhotoScape - Edição de imagens.
 
 --- 
-> ## Sobre mim
-> Aline Braga Bozollan - Estudante Analista de Dados.
- 	[![texto alt]( https://cdn.qr-code-generator.com/account27731420/qrcodes/68708496.png?Expires=1690381986&Signature=JRPa-5HZEMmElq6uwpgepspmD029IVLTVdu7sY-~A-W9mnFVlNgp8ilcA0aKTUoMyABtyRNwsD8dTXCN79TH0NKdL6UZRN1vnXHHswVqNef5Ju49Mi1raq6BYCTVxQV9SbuQ7LeS3qpmc6UwSyf6LBKwgFTu58g0amep6CpnFKO-sslBegPtYiAJOQfAin~8bUDVwTInlJRbwoi2Fg-C4skIKUjjll3PdpPWPkP8E3ZkamEFMwqTFublEEW93~n73sjF5ojWawsH7pBJx96yAicJL4FvnStgDTkNCT-5dLtGib7my9c~ao-FNOlfoYZAg2Tvwc7pdVO5RKDUJYrdXg__&Key-Pair-Id=KKMPOJU8AYATR)](https://www.linkedin.com/in/alinebozollan/)
+> ## <font color= #045FB4>Sobre mim
+> <font color= #000000> Aline Braga Bozollan - Estudante Analista de Dados.
+ 	[![texto alt]( https://cdn.qr-code-generator.com/account27731420/qrcodes/68708496.png?Expires=1690381986&Signature=JRPa-5HZEMmElq6uwpgepspmD029IVLTVdu7sY-~A-W9mnFVlNgp8ilcA0aKTUoMyABtyRNwsD8dTXCN79TH0NKdL6UZRN1vnXHHswVqNef5Ju49Mi1raq6BYCTVxQV9SbuQ7LeS3qpmc6UwSyf6LBKwgFTu58g0amep6CpnFKO-sslBegPtYiAJOQfAin~8bUDVwTInlJRbwoi2Fg-C4skIKUjjll3PdpPWPkP8E3ZkamEFMwqTFublEEW93~n73sjF5ojWawsH7pBJx96yAicJL4FvnStgDTkNCT-5dLtGib7my9c~ao-FNOlfoYZAg2Tvwc7pdVO5RKDUJYrdXg__&Key-Pair-Id=KKMPOJU8AYATR)](https://www.linkedin.com/in/alinebozollan/).
    
    
 
