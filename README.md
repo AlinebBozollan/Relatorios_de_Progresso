@@ -59,5 +59,8 @@ Através da análise desses dados, a empresa pode aprender com o passado, melhor
 
 * Escaneie o QrCode para contato:
 
-    [![texto alt](https://qrco.de/beC0MP)
-	[![texto alt]( https://cdn.qr-code-generator.com/account27731420/qrcodes/68708496.png?Expires=1690381986&Signature=JRPa-5HZEMmElq6uwpgepspmD029IVLTVdu7sY-~A-W9mnFVlNgp8ilcA0aKTUoMyABtyRNwsD8dTXCN79TH0NKdL6UZRN1vnXHHswVqNef5Ju49Mi1raq6BYCTVxQV9SbuQ7LeS3qpmc6UwSyf6LBKwgFTu58g0amep6CpnFKO-sslBegPtYiAJOQfAin~8bUDVwTInlJRbwoi2Fg-C4skIKUjjll3PdpPWPkP8E3ZkamEFMwqTFublEEW93~n73sjF5ojWawsH7pBJx96yAicJL4FvnStgDTkNCT-5dLtGib7my9c~ao-FNOlfoYZAg2Tvwc7pdVO5RKDUJYrdXg__&Key-Pair-Id=KKMPOJU8AYATR)](https://www.linkedin.com/in/alinebozollan/).
+<img src="https://github.com/AlinebBozollan/Relatorios_de_Progresso/blob/main/Imagens/Aline_B_Bozollan%20(1).png?raw=true" width=1500 height=450 width=1500 height=450>
+
+
+
+LinkedIn: https://www.linkedin.com/in/alinebozollan/
