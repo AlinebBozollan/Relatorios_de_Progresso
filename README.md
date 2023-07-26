@@ -59,7 +59,7 @@ Através da análise desses dados, a empresa pode aprender com o passado, melhor
 
 * Escaneie o QrCode para contato:
 
-<img src="https://github.com/AlinebBozollan/Relatorios_de_Progresso/blob/main/Imagens/Aline_B_Bozollan%20(1).png?raw=true" width=800 height=500 width=800 height=500>
+<img src="https://github.com/AlinebBozollan/Relatorios_de_Progresso/blob/main/Imagens/Aline_B_Bozollan%20(1).png?raw=true" width=300 height=300 width=300 height=200>
 
 
 
