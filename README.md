@@ -52,7 +52,6 @@ Através da análise desses dados, a empresa pode aprender com o passado, melhor
 Link = [Colab](https://colab.research.google.com/drive/1yUoLV7x7BF5lmG6rWdQ7ynTrQuG_NWIW#scrollTo=StGmu2YT8zMI)
 - GitHub Desktop - Para Clonar Repositório
 - VsCodeStudio - Realizar commits e subir arquivos.
-- PhotoScape - Edição de imagens.
 
 --- 
  ## <font color="darkblue">Sobre Mim</font>
