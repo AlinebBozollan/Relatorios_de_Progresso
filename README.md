@@ -39,6 +39,47 @@ A análise dos dados fornecidos pela tabela é de extrema importância para o pr
 
 Através da análise desses dados, a empresa pode aprender com o passado, melhorar o presente e planejar o futuro, alcançando assim um desenvolvimento mais eficiente e bem-sucedido de seus softwares.
 
+### Insights Extraídos 
+
+Dos cálculos realizados e dos gráficos apresentados, podemos extrair diversos insights importantes:
+
+1. Total de Horas Trabalhadas e Média Diária:
+
+* Total de Horas Trabalhadas: 43 horas
+* Média Diária de Horas Trabalhadas: 6.14 horas
+Insights: Podemos ver o esforço total do time de desenvolvedores durante o período analisado e entender a média de horas trabalhadas por dia. Isso pode ser útil para avaliar a carga de trabalho e a consistência da equipe.
+
+2. Total de Bugs Corrigidos e Média Diária:
+
+* Total de Bugs Corrigidos: 16 bugs
+* Média Diária de Bugs Corrigidos: 2.29 bugs
+Insights: Esses números indicam a quantidade de erros identificados e corrigidos pelo time. Uma alta média diária de bugs pode sugerir uma quantidade significativa de problemas no código ou no processo de desenvolvimento que precisam ser abordados.
+
+3. Total de Tarefas Concluídas e Média Diária:
+
+* Total de Tarefas Concluídas: 29 tarefas
+* Média Diária de Tarefas Concluídas: 4.14 tarefas
+Insights: Esses valores mostram o ritmo de produtividade do time em termos de tarefas concluídas. Isso ajuda a entender a eficiência do processo de desenvolvimento e a capacidade da equipe de entregar resultados.
+
+4. Produtividade Diária (Tarefas Concluídas por Hora):
+
+* Produtividade Diária: 0.67 tarefas concluídas por hora de trabalho
+Insights: Esse número mede a eficiência do time em relação à quantidade de tarefas entregues por hora de trabalho. Pode ser útil para avaliar a capacidade de entrega e a eficácia geral da equipe.
+
+5. Visualizações Gráficas:
+
+* Os gráficos de barras e linhas fornecem uma representação visual das métricas ao longo dos dias da semana.
+* O gráfico de barras mostra como as diferentes métricas (horas trabalhadas, bugs corrigidos, tarefas concluídas) variam ao longo dos dias.
+* O gráfico de linhas destaca a evolução diária das métricas, permitindo a identificação de padrões ou tendências.
+Insights: Os gráficos facilitam a compreensão das flutuações nas métricas ao longo do tempo. Por exemplo, se houver um aumento consistente no número de tarefas concluídas, isso pode indicar melhorias no processo de desenvolvimento ou maior eficiência da equipe.
+
+Resumo Completo:
+
+O resumo completo do relatório apresenta todas as métricas e insights em uma tabela organizada.
+Insights: Isso permite uma visualização clara de todas as métricas-chave e facilita a comparação e a análise das informações.
+
+Em geral, esses insights ajudam a avaliar o desempenho da equipe de desenvolvimento, identificar áreas de melhoria e fornecer uma base para tomar decisões informadas sobre otimizações no processo de trabalho, alocação de recursos e definição de metas realistas.
+
 --- 
 
 ## <font color="darkblue">Modo de Uso:</font> 
